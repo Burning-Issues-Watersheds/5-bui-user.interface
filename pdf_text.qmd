@@ -1,0 +1,60 @@
+---
+title: "Text Analysis of a Research Article"
+author: "Francisco J. Guerrero"
+---
+
+A quick text analysis of: [Wildfires increasingly impact western US fluvial networks](https://www.nature.com/articles/s41467-021-22747-3) by Ball et al., 2021.
+
+```{r setup, include=FALSE, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# A Text analysis with [Tidytext](https://www.tidytextmining.com/index.html)
+
+This is an exploratory data analysis (flesh out later)
+
+```{r echo = FALSE, warning=FALSE, message=FALSE}
+
+
+require(librarian)
+librarian::shelf(dplyr, tidytext, tidyverse,
+                 widyr,igraph, ggraph,
+                 wordcloud, reshape2, graphlayouts,
+                 pluralize, quanteda, qgraph, cowplot, readr, pdftools)
+```
+
+## Downloading the paper
+
+```{r}
+# download.file("https://www.nature.com/articles/s41467-021-22747-3.pdf","assets/wq_burning.pdf", mode = "wb")
+ppr <- pdf_text("assets/wq_burning.pdf")
+#You may need to disconnect the VPN for this line to work
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
