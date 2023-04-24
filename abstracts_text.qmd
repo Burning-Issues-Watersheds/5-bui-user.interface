@@ -16,13 +16,16 @@ require(librarian)
 librarian::shelf(dplyr, tidytext, tidyverse,
             widyr,igraph, ggraph,
             wordcloud, reshape2, graphlayouts,
-            pluralize, quanteda, qgraph, cowplot, readr)
+            pluralize, quanteda, qgraph, cowplot, readr,spacyr)
+spacy_install()
+spacy_initialize()
+
 #Function to adjust table width:
   
-html_table_width <- function(kable_output, width){
-  width_html <- paste0(paste0('<col width="', width, '">'), collapse = "\n")
-  sub("<table>", paste0("<table>\n", width_html), kable_output)
-}
+# html_table_width <- function(kable_output, width){
+#   width_html <- paste0(paste0('<col width="', width, '">'), collapse = "\n")
+#   sub("<table>", paste0("<table>\n", width_html), kable_output)
+# }  
 
 # Source: https://github.com/rstudio/bookdown/issues/122
 ```
@@ -97,10 +100,9 @@ More info about lexicons and text categorization can be found [here](https://jul
 
 Let's use wordclouds again to see the difference between the raw answers and "cleaned" answers for the pressing questions topic.
 
-########################################################################
-# PLEASE REVIEW
+
 ```{r}
-pq_tokens <- ttl_df1 %>% 
+pq_tokens <- pq_dat %>% 
   unnest_tokens(output = word, input = answers)%>%
   anti_join(stop_words, by = "word")%>%
   filter(str_detect(word,"[:alpha:]"))%>%
