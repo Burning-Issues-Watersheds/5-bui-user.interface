@@ -16,16 +16,14 @@ require(librarian)
 librarian::shelf(dplyr, tidytext, tidyverse,
             widyr,igraph, ggraph,
             wordcloud, reshape2, graphlayouts,
-            pluralize, quanteda, qgraph, cowplot, readr,spacyr)
-spacy_install()
-spacy_initialize()
+            pluralize, quanteda, qgraph, cowplot, readr, grateful)
 
 #Function to adjust table width:
   
-# html_table_width <- function(kable_output, width){
-#   width_html <- paste0(paste0('<col width="', width, '">'), collapse = "\n")
-#   sub("<table>", paste0("<table>\n", width_html), kable_output)
-# }  
+html_table_width <- function(kable_output, width){
+  width_html <- paste0(paste0('<col width="', width, '">'), collapse = "\n")
+  sub("<table>", paste0("<table>\n", width_html), kable_output)
+}
 
 # Source: https://github.com/rstudio/bookdown/issues/122
 ```
@@ -65,7 +63,7 @@ ttl_df1%>% select(id,title) %>%
   distinct() %>%
   filter(word!="fire") %>%
   filter(word!= "wildfire") %>%
-  with(wordcloud(word,n,scale = c(4, .05),max.words = Inf,min.freq=1))
+  with(wordcloud(word,n,scale = c(3, .05),max.words = Inf,min.freq=1))
 ```
 Action items:
 1. Homogenize singulars and plurals
@@ -92,8 +90,8 @@ stp_eg <- as.data.frame(rbind(head(stop_words),
                               tail(stop_words)),
                         row.names = FALSE)
 colnames(stp_eg) <- c("Stop word", "Lexicon")
-knitr::kable(stp_eg,format="html") %>% 
-   html_table_width(c(200,200))
+# knitr::kable(stp_eg,format="html") %>% 
+#    html_table_width(c(200,200))
 ```
 
 More info about lexicons and text categorization can be found [here](https://juliasilge.github.io/tidytext/reference/stop_words.html)
