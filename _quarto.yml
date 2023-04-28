@@ -14,6 +14,9 @@ website:
         text: Analysis
       - href: about.qmd
         text: Community
+comments:
+  giscus: 
+    repo: Burning-Issues-Watersheds/5-bui-user.interface
 
 format:
   html:
