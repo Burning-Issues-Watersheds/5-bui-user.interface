@@ -26,7 +26,7 @@ We have got responses from 67 wildfire scientists to the following questions:
 
 If you are interested in getting involved with this project or future efforts related to this work, please contact us at: burning.issues.community\@pnnl.gov
 
-# Introduce yourself!
+# Introduce yourself!! 
 
 ```{=html}
 <script src="https://giscus.app/client.js"
