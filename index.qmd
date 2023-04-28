@@ -30,7 +30,7 @@ If you are interested in getting involved with this project or future efforts re
 
 ```{=html}
 <script src="https://giscus.app/client.js"
-        data-repo="burning-issues/burn_iss-website"
+        data-repo="burning-issues-watersheds/5-bui-user.interface"
         data-repo-id="R_kgDOIPVoJg"
         data-category="Announcements"
         data-category-id="DIC_kwDOIPVoJs4CWBbv"
