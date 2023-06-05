@@ -10,6 +10,7 @@ website:
         text: Home
       - href: timeline.qmd
       - href: synthesis.qmd
+      - href: AI-synthesis.qmd
       - href: eda_text.qmd
         text: Analysis
       - href: about.qmd
