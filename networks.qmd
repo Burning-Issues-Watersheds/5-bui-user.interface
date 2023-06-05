@@ -5,27 +5,27 @@ editor: visual
 
 **Manual Networks**
 
-_pressing question network coming soon..._
+*pressing question network coming soon...*
 
-_roadblocks question network coming soon..._
+*roadblocks question network coming soon...*
 
-_pathways question network coming soon..._
+*pathways question network coming soon...*
 
 **Chat-GPI Networks**
 
-_pressing question network coming soon..._
+*pressing question network coming soon...*
 
-_roadblocks question network coming soon..._
+*roadblocks question network coming soon...*
 
-_pathways question network coming soon..._
+*pathways question network coming soon...*
 
 **Text Analysis Networks**
 
-_pressing question network coming soon..._
+*pressing question network coming soon...*
 
-_roadblocks question network coming soon..._
+*roadblocks question network coming soon...*
 
-_pathways question network coming soon..._
+*pathways question network coming soon...*
 
 ## Feedback Prompt:
 
@@ -45,7 +45,7 @@ These have been created based on your responses to the survey questions. There i
         data-category="Q&A"
         data-category-id="DIC_kwDOJIxXvs4CWBjQ"
         data-mapping="specific"
-        data-term="Word Cloud"
+        data-term="Word Clouds"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
