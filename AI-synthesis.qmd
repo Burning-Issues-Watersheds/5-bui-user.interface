@@ -1,0 +1,20 @@
+---
+title: "Artifical Intelligence Synthesis"
+editor: visual
+---
+
+Our initial (AI - ChatGPT) analysis of survey responses suggest the following burning issues for the science of fires and watersheds:
+
+1\) Understanding Fire Impacts on Biogeochemical Cycling
+
+2\) Modeling and Predicting Fire Impacts
+
+3\) Fire Effects on Microbial Communities
+
+4\) Fire Impacts on Watershed Dynamics
+
+5\) Fire Effects on Water Quality and Drinking Water
+
+6\) Socio-Ecological Perspectives on Fire Management
+
+7\) Connectivity and Controls in Fire-Impacted Watersheds

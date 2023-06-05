@@ -194,5 +194,12 @@
     "title": "Transition from RMarkdown",
     "section": "Troubleshooting",
     "text": "Troubleshooting\n\nGitHub Action fails, says you need RMarkdown but you don’t have R code!\nAnd you changed all .Rmds to .qmds!\nYou likely have a few setup code chunks from RMarkdown, that look like this:\n{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = FALSE)\nYou can find them by opening each of your files and having a look, or use GitHub’s search for the keyword knitr"
+  },
+  {
+    "objectID": "AI-synthesis.html",
+    "href": "AI-synthesis.html",
+    "title": "Artifical Intelligence Synthesis",
+    "section": "",
+    "text": "1) Understanding Fire Impacts on Biogeochemical Cycling\n2) Modeling and Predicting Fire Impacts\n3) Fire Effects on Microbial Communities\n4) Fire Impacts on Watershed Dynamics\n5) Fire Effects on Water Quality and Drinking Water\n6) Socio-Ecological Perspectives on Fire Management\n7) Connectivity and Controls in Fire-Impacted Watersheds"
   }
 ]
