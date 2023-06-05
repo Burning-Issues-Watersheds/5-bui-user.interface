@@ -13,6 +13,7 @@ website:
       - href: AI-synthesis.qmd
       - href: eda_text.qmd
         text: Analysis
+      - href: networks.qmd
       - href: about.qmd
         text: Community
 comments:

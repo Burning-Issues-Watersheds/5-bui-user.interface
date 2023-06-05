@@ -201,5 +201,12 @@
     "title": "AI Synthesis",
     "section": "",
     "text": "1) Understanding Fire Impacts on Biogeochemical Cycling\n2) Modeling and Predicting Fire Impacts\n3) Fire Effects on Microbial Communities\n4) Fire Impacts on Watershed Dynamics\n5) Fire Effects on Water Quality and Drinking Water\n6) Socio-Ecological Perspectives on Fire Management\n7) Connectivity and Controls in Fire-Impacted Watersheds"
+  },
+  {
+    "objectID": "networks.html",
+    "href": "networks.html",
+    "title": "Knowledge Networks",
+    "section": "",
+    "text": "Chat-GPI Networks\nText Analysis Networks"
   }
 ]
