@@ -3,8 +3,57 @@ title: "Knowledge Networks"
 editor: visual
 ---
 
-Manual Networks
+**Manual Networks**
 
-Chat-GPI Networks
+_pressing question network coming soon..._
 
-Text Analysis Networks
+_roadblocks question network coming soon..._
+
+_pathways question network coming soon..._
+
+**Chat-GPI Networks**
+
+_pressing question network coming soon..._
+
+_roadblocks question network coming soon..._
+
+_pathways question network coming soon..._
+
+**Text Analysis Networks**
+
+_pressing question network coming soon..._
+
+_roadblocks question network coming soon..._
+
+_pathways question network coming soon..._
+
+## Feedback Prompt:
+
+#### Take a look at the word cloud networks & respond in the comment box below!
+
+These have been created based on your responses to the survey questions. There is a word cloud for: 1) the pressing questions 2) the roadblocks and 3) the pathways for wildfires and watershed science.
+
+1.  🔥 What connections jump out for the burning issues? (10 words or less per "burning issue")
+2.  🔥 What connections do you see for roadblocks? (10 words or less per roadblock)
+3.  🔥 What connections do you see for pathways? (10 words or less per pathway)
+4.  🔥 What connections do you see across the questions? i.e. which pathways could address which roadblocks? Which burning issues could be addressed by which pathways, etc?
+
+```{=html}
+<script src="https://giscus.app/client.js"
+        data-repo="Burning-Issues-Watersheds/5-bui-user.interface"
+        data-repo-id="R_kgDOJIxXvg"
+        data-category="Q&A"
+        data-category-id="DIC_kwDOJIxXvs4CWBjQ"
+        data-mapping="specific"
+        data-term="Word Cloud"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+```
