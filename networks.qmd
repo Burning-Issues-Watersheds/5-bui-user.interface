@@ -6,14 +6,7 @@ editor: visual
 # Abstract network
 
 ```{=html}
-<iframe width="780" height="500" src="../3-bui-production.hub/abstract_network.html" title="Quarto Documentation"></iframe>
-```
-
-```{r}
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
+<iframe src="../3-bui-production.hub/abstract_network.html" width="100%" height="600px" frameborder="1"></iframe>
 ```
 
 **Manual Networks**
