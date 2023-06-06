@@ -313,29 +313,6 @@ plot(bigram_graph,layout=m, edge.arrow.size =.05,vertex.color = "pink", vertex.s
 
 Editing network graphs: [GitHub-Issue](https://github.com/thomasp85/ggraph/issues/169)
 
-Check html basics for quarto and giscus here: https://quarto.org/docs/output-formats/html-basics.html#commenting
-
-```{html echo=FALSE}
-<script src="https://giscus.app/client.js" 
-        data-repo="Burning-Issues-Watersheds/5-bui-user.interface" 
-        data-repo-id="R_kgDOJIxXvg" 
-        data-category="Q&A" 
-        data-category-id="DIC_kwDOJIxXvs4CWBjQ" 
-        data-mapping="specific" 
-        data-term="Word Clouds" 
-        data-strict="0" 
-        data-reactions-enabled="1" 
-        data-emit-metadata="0" 
-        data-input-position="top" 
-        data-theme="preferred_color_scheme" 
-        data-lang="en" 
-        data-loading="lazy" 
-        crossorigin="anonymous" 
-        async>
-</script>
-  
-```
-
 
 
 
