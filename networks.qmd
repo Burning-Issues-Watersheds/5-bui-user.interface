@@ -6,7 +6,7 @@ editor: visual
 # Abstract network
 
 ```{=html}
-<!--#include virtual="../3-bui-production.hub/abstract_network.html" -->
+<iframe width="780" height="500" src="../3-bui-production.hub/abstract_network.html" title="Quarto Documentation"></iframe>
 ```
 
 ```{r}

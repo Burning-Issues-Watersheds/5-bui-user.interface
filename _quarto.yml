@@ -19,6 +19,7 @@ website:
 
 format:
   html:
+    embed-resources: true
     theme: 
       light: cosmo
       dark: darkly
