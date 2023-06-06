@@ -6,8 +6,16 @@ editor: visual
 # Abstract network
 
 ```{=html}
-<object data="../3-bui-production.hub/abstract_network.html" width="100%" height="600px"></object>
+<!--#include virtual="../3-bui-production.hub/abstract_network.html" -->
 ```
+
+```{r}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
+```
+
 **Manual Networks**
 
 *pressing question network coming soon...*
