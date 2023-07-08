@@ -12,20 +12,16 @@ Text analysis of abstracts from references cites in survey responses is here. Yo
 ```{=html}
 <iframe src="../3-bui-production.hub/pressq_abstract_network.html" width="100%" height="600px" frameborder="1"></iframe>
 ```
-
 #### Rodablocks
 
 ```{=html}
 <iframe src="../3-bui-production.hub/roadblocks_abstract_network.html" width="100%" height="600px" frameborder="1"></iframe>
 ```
-
 #### Pathways
 
 ```{=html}
 <iframe src="../3-bui-production.hub/pathways_abstract_network.html" width="100%" height="600px" frameborder="1"></iframe>
 ```
-
-
 ### Manual Networks
 
 *pressing question network coming soon...*
