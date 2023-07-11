@@ -2,6 +2,34 @@
 title: "Knowledge Networks"
 editor: visual
 ---
+# Our initial survey
+
+We have got responses from 67 wildfire scientists to the following questions:
+
+-   In your opinion, which are 2 of the most **pressing questions** that need to be addressed to further our understanding of wildfire impacts on biogeochemical cycling in watersheds.
+-   What are the most important **pathways** towards better integrating fire science across scientific disciplines?
+-   What are the key **roadblocks** towards a more holistic understanding of the cumulative spatiotemporal impacts of wildfires in terrestrial and aquatic environments across both short and long timescales?
+
+### Text Analysis Networks
+
+Text analysis of survey responses is here. You can zoom and move the network around!
+
+#### Pressing questions
+
+```{=html}
+<iframe src="../3-bui-production.hub/pressing_questions_answers_interactive.html" width="100%" height="600px" loading = "lazy"></iframe>
+```
+#### Roadblocks
+
+```{=html}
+<iframe src="../3-bui-production.hub/roadblocks_answers_interactive.html" width="100%" height="600px" loading = "lazy"></iframe>
+```
+#### Pathways
+
+```{=html}
+<iframe src="../3-bui-production.hub/pathways_answers_interactive.html" width="100%" height="600px"> loading = "lazy"</iframe>
+```
+
 
 ### Literature network
 
@@ -12,43 +40,17 @@ Text analysis of abstracts from references cites in survey responses is here. Yo
 ```{=html}
 <iframe src="../3-bui-production.hub/pressing_questions_abstract_interactive.html" width="100%" height="600px" loading = "lazy"></iframe>
 ```
-
 #### Roadblocks
 
 ```{=html}
 <iframe src="../3-bui-production.hub/roadblocks_abstract_interactive.html" width="100%" height="600px" loading = "lazy"></iframe>
 ```
-
 #### Pathways
 
 ```{=html}
 <iframe src="../3-bui-production.hub/pathways_abstract_interactive.html" width="100%" height="600px"> loading = "lazy"</iframe>
 ```
 
-
-### Manual Networks
-
-*pressing question network coming soon...*
-
-*roadblocks question network coming soon...*
-
-*pathways question network coming soon...*
-
-### Chat-GPI Networks
-
-*pressing question network coming soon...*
-
-*roadblocks question network coming soon...*
-
-*pathways question network coming soon...*
-
-### Text Analysis Networks
-
-*pressing question network coming soon...*
-
-*roadblocks question network coming soon...*
-
-*pathways question network coming soon...*
 
 ### [Feedback Prompt](https://github.com/Burning-Issues-Watersheds/5-bui-user.interface/discussions/6)
 
