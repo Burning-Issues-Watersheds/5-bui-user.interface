@@ -30,5 +30,3 @@ If you are interested in getting involved with this project or future efforts re
 
 Take a look at the source [.qmd](https://github.com/Burning-Issues-Watersheds/5-bui-user.interface/blob/main/index.qmd) document behind this page.
 
-
-
