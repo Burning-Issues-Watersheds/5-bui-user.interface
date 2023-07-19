@@ -65,3 +65,7 @@ These have been created based on your responses to the survey questions. There i
 2.  🔥 What connections do you see for roadblocks? (10 words or less per roadblock)
 3.  🔥 What connections do you see for pathways? (10 words or less per pathway)
 4.  🔥 What connections do you see across the questions? i.e. which pathways could address which roadblocks? Which burning issues could be addressed by which pathways, etc?
+
+# View in GitHub
+
+Take a look at the [code](https://github.com/Burning-Issues-Watersheds/2-bui-analytical.engine/blob/main/script_text_analysis_burning_lit.R) behind the networks! 

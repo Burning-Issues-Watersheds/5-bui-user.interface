@@ -26,4 +26,7 @@ We have got responses from 67 wildfire scientists to the following questions:
 
 If you are interested in getting involved with this project or future efforts related to this work, please contact us at: burning.issues.community\@pnnl.gov
 
+# View in GitHub
+
+Take a look at the source [.qmd](https://github.com/Burning-Issues-Watersheds/5-bui-user.interface/blob/main/index.qmd) document behind this page.
 
